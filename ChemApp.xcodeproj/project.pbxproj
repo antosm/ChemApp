@@ -1,0 +1,358 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		57526604163AB00C00A15ACE /* Acid4_9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57526603163AB00C00A15ACE /* Acid4_9.jpg */; };
+		57526607163AB01200A15ACE /* Acid16_5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57526606163AB01200A15ACE /* Acid16_5.jpg */; };
+		57526609163AB3B000A15ACE /* AcidOrig.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57526608163AB3B000A15ACE /* AcidOrig.jpg */; };
+		5752660D163AB3BB00A15ACE /* Acid_Conj.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5752660C163AB3BB00A15ACE /* Acid_Conj.jpg */; };
+		5752660F163AB3C200A15ACE /* Acid_Conj_opt3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5752660E163AB3C200A15ACE /* Acid_Conj_opt3.jpg */; };
+		57526611163AB3C700A15ACE /* Acid_Conj_opt2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57526610163AB3C700A15ACE /* Acid_Conj_opt2.jpg */; };
+		57526613163AB72700A15ACE /* Base_orig.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57526612163AB72700A15ACE /* Base_orig.jpg */; };
+		57526615163AB74100A15ACE /* Base_conj.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57526614163AB74100A15ACE /* Base_conj.jpg */; };
+		57526617163ABB2A00A15ACE /* doubleArrow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57526616163ABB2A00A15ACE /* doubleArrow.jpg */; };
+		576096C5160F8E6F006F3238 /* LabGame01ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 576096C4160F8E6F006F3238 /* LabGame01ViewController.m */; };
+		57E8EE47162F906400394D71 /* The-Nutty-Professor-10093933.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57E8EE46162F906400394D71 /* The-Nutty-Professor-10093933.jpg */; };
+		57E8EE4A162F9A3000394D71 /* Game2Button.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57E8EE49162F9A3000394D71 /* Game2Button.jpg */; };
+		57E8EE4C162F9A3B00394D71 /* Game1Button.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57E8EE4B162F9A3B00394D71 /* Game1Button.jpg */; };
+		57E8EE4E162F9A4900394D71 /* Game3Button.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57E8EE4D162F9A4900394D71 /* Game3Button.jpg */; };
+		57E8EE50162F9D0C00394D71 /* TsoiChem.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57E8EE4F162F9D0C00394D71 /* TsoiChem.jpg */; };
+		57FE3BD0160A7D9F00EADDBB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57FE3BCF160A7D9F00EADDBB /* UIKit.framework */; };
+		57FE3BD2160A7D9F00EADDBB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57FE3BD1160A7D9F00EADDBB /* Foundation.framework */; };
+		57FE3BD4160A7D9F00EADDBB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57FE3BD3160A7D9F00EADDBB /* CoreGraphics.framework */; };
+		57FE3BDA160A7D9F00EADDBB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 57FE3BD8160A7D9F00EADDBB /* InfoPlist.strings */; };
+		57FE3BDC160A7D9F00EADDBB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 57FE3BDB160A7D9F00EADDBB /* main.m */; };
+		57FE3BE0160A7D9F00EADDBB /* LABAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 57FE3BDF160A7D9F00EADDBB /* LABAppDelegate.m */; };
+		57FE3BE3160A7D9F00EADDBB /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57FE3BE1160A7D9F00EADDBB /* MainStoryboard.storyboard */; };
+		57FE3BE6160A7D9F00EADDBB /* LABViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 57FE3BE5160A7D9F00EADDBB /* LABViewController.m */; };
+		57FE3BF5160A808400EADDBB /* settings.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FE3BF4160A808400EADDBB /* settings.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		57526603163AB00C00A15ACE /* Acid4_9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Acid4_9.jpg; sourceTree = "<group>"; };
+		57526606163AB01200A15ACE /* Acid16_5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Acid16_5.jpg; sourceTree = "<group>"; };
+		57526608163AB3B000A15ACE /* AcidOrig.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AcidOrig.jpg; sourceTree = "<group>"; };
+		5752660C163AB3BB00A15ACE /* Acid_Conj.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Acid_Conj.jpg; sourceTree = "<group>"; };
+		5752660E163AB3C200A15ACE /* Acid_Conj_opt3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Acid_Conj_opt3.jpg; sourceTree = "<group>"; };
+		57526610163AB3C700A15ACE /* Acid_Conj_opt2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Acid_Conj_opt2.jpg; sourceTree = "<group>"; };
+		57526612163AB72700A15ACE /* Base_orig.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Base_orig.jpg; sourceTree = "<group>"; };
+		57526614163AB74100A15ACE /* Base_conj.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Base_conj.jpg; sourceTree = "<group>"; };
+		57526616163ABB2A00A15ACE /* doubleArrow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = doubleArrow.jpg; sourceTree = "<group>"; };
+		576096C3160F8E6F006F3238 /* LabGame01ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LabGame01ViewController.h; sourceTree = "<group>"; };
+		576096C4160F8E6F006F3238 /* LabGame01ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LabGame01ViewController.m; sourceTree = "<group>"; };
+		57E8EE46162F906400394D71 /* The-Nutty-Professor-10093933.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "The-Nutty-Professor-10093933.jpg"; sourceTree = "<group>"; };
+		57E8EE49162F9A3000394D71 /* Game2Button.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Game2Button.jpg; sourceTree = "<group>"; };
+		57E8EE4B162F9A3B00394D71 /* Game1Button.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Game1Button.jpg; sourceTree = "<group>"; };
+		57E8EE4D162F9A4900394D71 /* Game3Button.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Game3Button.jpg; sourceTree = "<group>"; };
+		57E8EE4F162F9D0C00394D71 /* TsoiChem.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = TsoiChem.jpg; sourceTree = "<group>"; };
+		57FE3BCB160A7D9F00EADDBB /* ChemApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChemApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		57FE3BCF160A7D9F00EADDBB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		57FE3BD1160A7D9F00EADDBB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		57FE3BD3160A7D9F00EADDBB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		57FE3BD7160A7D9F00EADDBB /* ChemApp-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ChemApp-Info.plist"; sourceTree = "<group>"; };
+		57FE3BD9160A7D9F00EADDBB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		57FE3BDB160A7D9F00EADDBB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		57FE3BDD160A7D9F00EADDBB /* ChemApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ChemApp-Prefix.pch"; sourceTree = "<group>"; };
+		57FE3BDE160A7D9F00EADDBB /* LABAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LABAppDelegate.h; sourceTree = "<group>"; };
+		57FE3BDF160A7D9F00EADDBB /* LABAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LABAppDelegate.m; sourceTree = "<group>"; };
+		57FE3BE2160A7D9F00EADDBB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		57FE3BE4160A7D9F00EADDBB /* LABViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LABViewController.h; sourceTree = "<group>"; };
+		57FE3BE5160A7D9F00EADDBB /* LABViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LABViewController.m; sourceTree = "<group>"; };
+		57FE3BF4160A808400EADDBB /* settings.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = settings.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		57FE3BC8160A7D9F00EADDBB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				57FE3BD0160A7D9F00EADDBB /* UIKit.framework in Frameworks */,
+				57FE3BD2160A7D9F00EADDBB /* Foundation.framework in Frameworks */,
+				57FE3BD4160A7D9F00EADDBB /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		57FE3BC0160A7D9F00EADDBB = {
+			isa = PBXGroup;
+			children = (
+				57FE3BD5160A7D9F00EADDBB /* ChemApp */,
+				57FE3BCE160A7D9F00EADDBB /* Frameworks */,
+				57FE3BCC160A7D9F00EADDBB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		57FE3BCC160A7D9F00EADDBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				57FE3BCB160A7D9F00EADDBB /* ChemApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		57FE3BCE160A7D9F00EADDBB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				57FE3BCF160A7D9F00EADDBB /* UIKit.framework */,
+				57FE3BD1160A7D9F00EADDBB /* Foundation.framework */,
+				57FE3BD3160A7D9F00EADDBB /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		57FE3BD5160A7D9F00EADDBB /* ChemApp */ = {
+			isa = PBXGroup;
+			children = (
+				57FE3BDE160A7D9F00EADDBB /* LABAppDelegate.h */,
+				57FE3BDF160A7D9F00EADDBB /* LABAppDelegate.m */,
+				57FE3BE1160A7D9F00EADDBB /* MainStoryboard.storyboard */,
+				576096C3160F8E6F006F3238 /* LabGame01ViewController.h */,
+				576096C4160F8E6F006F3238 /* LabGame01ViewController.m */,
+				57FE3BE4160A7D9F00EADDBB /* LABViewController.h */,
+				57FE3BE5160A7D9F00EADDBB /* LABViewController.m */,
+				57FE3BD6160A7D9F00EADDBB /* Supporting Files */,
+			);
+			path = ChemApp;
+			sourceTree = "<group>";
+		};
+		57FE3BD6160A7D9F00EADDBB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				57E8EE46162F906400394D71 /* The-Nutty-Professor-10093933.jpg */,
+				57526608163AB3B000A15ACE /* AcidOrig.jpg */,
+				57526603163AB00C00A15ACE /* Acid4_9.jpg */,
+				57526606163AB01200A15ACE /* Acid16_5.jpg */,
+				5752660C163AB3BB00A15ACE /* Acid_Conj.jpg */,
+				57526610163AB3C700A15ACE /* Acid_Conj_opt2.jpg */,
+				5752660E163AB3C200A15ACE /* Acid_Conj_opt3.jpg */,
+				57526612163AB72700A15ACE /* Base_orig.jpg */,
+				57526614163AB74100A15ACE /* Base_conj.jpg */,
+				57526616163ABB2A00A15ACE /* doubleArrow.jpg */,
+				57E8EE49162F9A3000394D71 /* Game2Button.jpg */,
+				57E8EE4F162F9D0C00394D71 /* TsoiChem.jpg */,
+				57E8EE4D162F9A4900394D71 /* Game3Button.jpg */,
+				57E8EE4B162F9A3B00394D71 /* Game1Button.jpg */,
+				57FE3BF4160A808400EADDBB /* settings.jpg */,
+				57FE3BD7160A7D9F00EADDBB /* ChemApp-Info.plist */,
+				57FE3BD8160A7D9F00EADDBB /* InfoPlist.strings */,
+				57FE3BDB160A7D9F00EADDBB /* main.m */,
+				57FE3BDD160A7D9F00EADDBB /* ChemApp-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		57FE3BCA160A7D9F00EADDBB /* ChemApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 57FE3BE9160A7D9F00EADDBB /* Build configuration list for PBXNativeTarget "ChemApp" */;
+			buildPhases = (
+				57FE3BC7160A7D9F00EADDBB /* Sources */,
+				57FE3BC8160A7D9F00EADDBB /* Frameworks */,
+				57FE3BC9160A7D9F00EADDBB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ChemApp;
+			productName = ChemApp;
+			productReference = 57FE3BCB160A7D9F00EADDBB /* ChemApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		57FE3BC2160A7D9F00EADDBB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = LAB;
+				LastUpgradeCheck = 0440;
+				ORGANIZATIONNAME = GGC;
+			};
+			buildConfigurationList = 57FE3BC5160A7D9F00EADDBB /* Build configuration list for PBXProject "ChemApp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 57FE3BC0160A7D9F00EADDBB;
+			productRefGroup = 57FE3BCC160A7D9F00EADDBB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				57FE3BCA160A7D9F00EADDBB /* ChemApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		57FE3BC9160A7D9F00EADDBB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				57FE3BDA160A7D9F00EADDBB /* InfoPlist.strings in Resources */,
+				57FE3BE3160A7D9F00EADDBB /* MainStoryboard.storyboard in Resources */,
+				57FE3BF5160A808400EADDBB /* settings.jpg in Resources */,
+				57E8EE47162F906400394D71 /* The-Nutty-Professor-10093933.jpg in Resources */,
+				57E8EE4A162F9A3000394D71 /* Game2Button.jpg in Resources */,
+				57E8EE4C162F9A3B00394D71 /* Game1Button.jpg in Resources */,
+				57E8EE4E162F9A4900394D71 /* Game3Button.jpg in Resources */,
+				57E8EE50162F9D0C00394D71 /* TsoiChem.jpg in Resources */,
+				57526604163AB00C00A15ACE /* Acid4_9.jpg in Resources */,
+				57526607163AB01200A15ACE /* Acid16_5.jpg in Resources */,
+				57526609163AB3B000A15ACE /* AcidOrig.jpg in Resources */,
+				5752660D163AB3BB00A15ACE /* Acid_Conj.jpg in Resources */,
+				5752660F163AB3C200A15ACE /* Acid_Conj_opt3.jpg in Resources */,
+				57526611163AB3C700A15ACE /* Acid_Conj_opt2.jpg in Resources */,
+				57526613163AB72700A15ACE /* Base_orig.jpg in Resources */,
+				57526615163AB74100A15ACE /* Base_conj.jpg in Resources */,
+				57526617163ABB2A00A15ACE /* doubleArrow.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		57FE3BC7160A7D9F00EADDBB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				57FE3BDC160A7D9F00EADDBB /* main.m in Sources */,
+				57FE3BE0160A7D9F00EADDBB /* LABAppDelegate.m in Sources */,
+				57FE3BE6160A7D9F00EADDBB /* LABViewController.m in Sources */,
+				576096C5160F8E6F006F3238 /* LabGame01ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		57FE3BD8160A7D9F00EADDBB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				57FE3BD9160A7D9F00EADDBB /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		57FE3BE1160A7D9F00EADDBB /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				57FE3BE2160A7D9F00EADDBB /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		57FE3BE7160A7D9F00EADDBB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		57FE3BE8160A7D9F00EADDBB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		57FE3BEA160A7D9F00EADDBB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ChemApp/ChemApp-Prefix.pch";
+				INFOPLIST_FILE = "ChemApp/ChemApp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		57FE3BEB160A7D9F00EADDBB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ChemApp/ChemApp-Prefix.pch";
+				INFOPLIST_FILE = "ChemApp/ChemApp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		57FE3BC5160A7D9F00EADDBB /* Build configuration list for PBXProject "ChemApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				57FE3BE7160A7D9F00EADDBB /* Debug */,
+				57FE3BE8160A7D9F00EADDBB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		57FE3BE9160A7D9F00EADDBB /* Build configuration list for PBXNativeTarget "ChemApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				57FE3BEA160A7D9F00EADDBB /* Debug */,
+				57FE3BEB160A7D9F00EADDBB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 57FE3BC2160A7D9F00EADDBB /* Project object */;
+}
